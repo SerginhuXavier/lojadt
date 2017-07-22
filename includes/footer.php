@@ -3,6 +3,6 @@
         <span>@DIABETEENS | Tel: (92) 99174-4132</span>
     </div>
     <div class="col-lg-6 text-right">
-        <a href="mailto:contato@agenciaguppy.com.br">diabeteensbr@gmail.com</a>
+        <a href="mailto:diabeteensbr@gmail.com">diabeteensbr@gmail.com</a>
     </div>
 </footer>
