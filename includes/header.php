@@ -2,7 +2,7 @@
     <header class="row">
         <div class="col-lg-1 text-center logo">
             <a href="./">
-                <img src="img/logo.png" alt="" />
+                <img src="img/logo.jpeg" width="48" alt="logo" />
             </a>
         </div>
         <div class="col-lg-4 busca">                    

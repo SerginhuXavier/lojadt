@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-br">
     <head>
         <?php include_once 'includes/head.php'; ?>
         <script src="js/Chart.js/Chart.js"></script>
